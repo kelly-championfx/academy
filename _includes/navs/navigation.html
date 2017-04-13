@@ -5,7 +5,7 @@
 	{% for page in NavLang %}
 		{% if page.tag == "main" %}	
 			{% if page.title %}
-				<li{% if page.url == current %} class="Subheader-active"{% endif %}><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>				
+				<li{% if page.url == current %} class="Subheader-active"{% endif %}><a href="{{ page.url | relative_url }}">{{ page.title }}</a>				
 				</li>
 			{% endif %}
 		{% endif %}
