@@ -1,0 +1,14 @@
+title: Champion FX Academy
+email: support@champion-fx.com
+description: > # this means to ignore newlines until "baseurl:"
+  Champion FX Academy
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,11 @@
+.Subheader {display:table; width:100%; background-color:#fff; border-bottom:1px solid #dedede; padding: 0; margin-top: 0px; margin-bottom: 20px; text-align:center;}
+.Subheader ul {list-style:none; margin:0px; padding:0; width:100%; display:block; }
+.Subheader ul li {display:inline-block; padding: 20px 0; margin: 0; border-bottom: 3px solid #fff;}
+.Subheader ul li a{ padding: 20px 30px; font-size: 14px; font-weight: 400; color: #000; }
+.Subheader ul li a:hover{ text-decoration:none;}
+.Subheader-active {border-bottom: 3px solid #013365 !important; color: #013365 !important;}
+.Subheader-active a{color: #013365 !important; font-weight: bold !important;}
+@media (max-width: 768px) {
+.Subheader ul li {display:block; margin:0px 0px; padding:6px 0px; width:100%; }
+.Subheader ul li a{width:100%;margin-left:-15px;padding:7px 15px; display:block;}
+}
