@@ -6,21 +6,22 @@ layout: compress
 <html lang="{{ siteLang }}">
   {% include head.html %}
     {% include header.html %}	
-		<div class="container">
-			<div class="row">
-				<div class="col-md-9">
-				    <h1>{{ page.title }}</h1>
-				</div>
-				<div class="col-md-3">
-				    
+		<main class="page-content" aria-label="Content" id="champion-container">
+			<div class="wrapper" id="champion-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-md">
+							{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md">
+							<div class="rte">{{ content }}</div>
+						</div>
+					</div>		
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md">			
-					<div class="rte">{{ content }}</div>				
-				</div>
-			</div>		
-		</div>
+		</main>	
      {% include footer.html %}  
     </body>
 </html>
