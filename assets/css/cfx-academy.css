@@ -21,7 +21,7 @@
 .Page-Grid__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:0px solid #dedede; padding:0px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center;}
 .Page-Grid__grid-wrap__box__boxInner:hover {border:0px solid #ccc;}
 
-.Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; font-size:16px; color: #fff; position:absolute; bottom:0px;left:20px;right:20px;padding:10px 20px; background-color: #013365}
+.Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; font-size:16px; color: #fff; position:absolute; bottom:0px;left:20px;right:20px;padding:10px 20px; background-color: #004385}
 
 .Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; right:5px; padding:0px; background:transparent; color:#444; font-size:12px; text-align:center;}
 .Page-Grid__grid-wrap__box__boxInner__vendor img {max-width:60%; height:auto; margin:0 auto;}
