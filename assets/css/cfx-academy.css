@@ -28,6 +28,7 @@
 .glossary-tab-content h2 {display: inline-block; border-bottom: 1px solid #013365;}
 .glossary-title {border-right: 1px solid #DEDEDE; font-weight: bold;}
 .glossary-title h1 {font-weight: bold !important;}
+.v-border {background:url(../images/v-border.jpg) bottom right no-repeat;}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
