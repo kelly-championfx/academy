@@ -9,6 +9,7 @@
 .Subheader ul li {display:block; margin:0px 0px; padding:6px 0px; width:100%; }
 .Subheader ul li a{width:100%;margin-left:-15px;padding:7px 15px; display:block;}
 }
+.fx-footer {margin-top: 20px;}
 /* Snippets */
 .report-list { width:100%;}
 .rte img{max-width:100%;}
