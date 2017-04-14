@@ -22,7 +22,7 @@
 .daily-report ul {list-style-type: none; margin:0; padding:0;}
 .daily-report ul li {margin-left:0px; padding:0px; width:100%;}
 .glossary-tabs li {border-right: 1px solid #DEDEDE !important;}
-.glossary-tabs li .last-tab{border-right: none !important;}
+.glossary-tabs li .last-tab{border-right: 0px solid #DEDEDE !important;}
 .glossary-content {margin-top: 40px;}
 .glossary-tab-content {padding-left: 40px;}
 .glossary-tab-content h2 {display: inline-block; border-bottom: 1px solid #013365;}
