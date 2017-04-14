@@ -23,7 +23,7 @@
 .daily-report ul li {margin-left:0px; padding:0px; width:100%;}
 .glossary-content {margin-top: 40px;}
 .glossary-tab-content {padding-left: 40px;}
-.glossary-tab-content h2 {border-bottom: 3px solid #013365;}
+.glossary-tab-content h2 {display: inline-block; border-bottom: 1px solid #013365;}
 .glossary-title {border-right: 1px solid #DEDEDE;}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
