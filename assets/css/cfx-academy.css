@@ -19,4 +19,12 @@
 .daily-report img {display:block; margin-left:auto; margin-right:auto; margin-top:30px; max-width: 100%;}
 .daily-report ul {list-style-type: none; margin:0; padding:0;}
 .daily-report ul li {margin-left:0px; padding:0px; width:100%;}
-
+/* Video Embed */
+.video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
+.video-container iframe,
+.video-container object,
+.video-container embed {position: absolute;top: 0;left: 0;width: 100%;height: 100%; border:0;}
+.video-thumb {cursor: pointer;display: inline-block;width: 22%;margin: 4% 4% 0 0;vertical-align: top;}
+.video-thumb:nth-child(4n) {margin-right: 0;}
+.video-thumb img {padding-bottom: 1em;}
+.video-thumb p{font-size: 14px;margin: 0;}
