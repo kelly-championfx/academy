@@ -46,7 +46,7 @@
 
 .LC-main {margin-top: 30px;}
 .LC-sidebar {border-right: 1px solid #004385; padding-right: 40px;}
-.LC-sidebar img {max-width: 100%;}
+.LC-sidebar img {max-width: 100%; margin-bottom: 40px;}
 .LC-sidebar ul {list-style-type: none; margin:0; padding:0;}
 .LC-sidebar ul li { border-bottom:3px solid #fff; margin-left:0px; padding:5px 0px; margin:15px 0px; width:100%; }
 .LC-sidebar ul li a{font-weight:400;}

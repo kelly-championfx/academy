@@ -3,6 +3,7 @@
 {% assign current = page.url %}
 {% if page.image %}
 <img src="{{ page.image | relative_url }}">
+<h3>Conreibutors</h3>
 {% endif %}
     {% if siteLang == "en" %}
 	{% assign NavLang = site.pages | where: "language", "en" %}	
