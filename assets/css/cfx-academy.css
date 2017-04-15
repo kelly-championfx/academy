@@ -37,11 +37,15 @@
 .Home__grid-wrap__box {float: left;  position: relative; width: 25%; padding-bottom: 25%;}
 .Home__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:0px solid #dedede; padding:20px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center; border: 0px solid #f2f2f2;}
 .Home__grid-wrap__box__boxInner p {}
+.LC__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 35%;}
+.LC-Grid__grid-wrap__box__boxInner__title {position:absolute; bottom:50px;left:20px;right:20px;padding:10px 10px;}
 @media only screen and (max-width : 980px) {
 .Home__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
+.LC__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
 }
 @media only screen and (max-width : 580px) {
 .Home__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
+.LC__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
 
 .LC-main {margin-top: 30px;}
