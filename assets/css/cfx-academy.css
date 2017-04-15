@@ -32,6 +32,13 @@
 @media only screen and (max-width : 580px) {
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
+.LC-main {margin-top: 30px;}
+.LC-sidebar {border-right: 1px solid #004385; padding-right: 40px;}
+.LC-sidebar ul {list-style-type: none; margin:0; padding:0;}
+.LC-sidebar ul li { border-bottom:3px solid #fff; margin-left:0px; padding:5px 0px; margin:15px 0px; width:100%; }
+.LC-sidebar ul li a{font-weight:400;}
+.LC-active { border-bottom: 3px solid #013365!important; font-weight: bold;}
+.LC-content {padding-left: 20px;}
 
 /* Snippets */
 .report-list { width:100%;}
