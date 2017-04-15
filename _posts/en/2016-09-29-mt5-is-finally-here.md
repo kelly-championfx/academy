@@ -3,6 +3,7 @@ layout: post
 title: "MT5 is Finally Here!"
 language: en
 permalink: /en/mt5-is-finally-here/
+sub: blog
 excerpt: "Traders, we are delighted to announce the launch of Binary.com’s MT5 trading platform starting with volatility indices. Additional assets will be coming your way shortly..."
 ---
 ![MT5 is Finally Here!]({{site.baseurl }}/images/MT5.jpg)

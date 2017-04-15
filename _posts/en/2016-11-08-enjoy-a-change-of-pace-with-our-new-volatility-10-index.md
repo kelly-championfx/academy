@@ -3,6 +3,7 @@ layout: post
 title: "Enjoy a Change of Pace with Our New Volatility 10 Index"
 language: en
 permalink: /en/enjoy-a-change-of-pace-with-our-new-volatility-10-index/
+sub: blog
 excerpt: "We’ve just launched the new Volatility 10 Index that possesses 10% of the volatility of simulated markets for both MT5 and binary options platforms..."
 ---
 Looking for more diversity in the Volatility Indices markets? We’ve just launched the new Volatility 10 Index that possesses 10% of the volatility of simulated markets for both MT5 and binary options platforms.

@@ -3,6 +3,7 @@ layout: post
 title: "New asset classes with up to 1,000:1 leverage now available on MT5"
 language: en
 permalink: /en/new-asset-classes-now-available-on-mt5/
+sub: blog
 excerpt: "You’ve spoken and we’ve listened. Now you can trade all Forex pairs and precious metal pairs such as Gold, Silver, and Palladium with leverage of up to 1,000:1 on our MT5 platform..."
 ---
 You’ve spoken and we’ve listened. Now you can trade all Forex pairs and precious metal pairs such as Gold, Silver, and Palladium with leverage of up to 1,000:1 on our MT5 platform.

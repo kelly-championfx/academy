@@ -3,6 +3,7 @@ layout: post
 title: "Experience the power of spread trading on MT5"
 language: en
 permalink: /en/experience-the-power-of-spread-trading-on-MT5/
+sub: blog
 excerpt: "As part of our ongoing efforts to enhance our products and services, we are consolidating all spread contracts solely on our MT5 platform..."
 ---
 As part of our ongoing efforts to enhance our products and services, we are consolidating all spread contracts solely on <a href="https://mt.binary.com" target="_blank">our MT5 platform</a>.

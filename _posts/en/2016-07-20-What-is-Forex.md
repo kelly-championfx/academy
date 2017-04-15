@@ -3,6 +3,7 @@ layout: post
 title: "Learn Forex Trading Basics"
 language: en
 permalink: /en/learn-forex-trading-basics/
+sub: blog
 excerpt: "The Forex — where foreign currencies are bought, sold, and exchanged — is the largest and most liquid market in the world. Do you want to learn Forex trading..."
 ---
 

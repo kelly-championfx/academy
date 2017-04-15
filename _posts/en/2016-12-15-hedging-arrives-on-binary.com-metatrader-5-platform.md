@@ -3,6 +3,7 @@ layout: post
 title: "Hedging Arrives on Binary.com’s MetaTrader 5 Platform"
 language: en
 permalink: /en/hedging-arrives-on-binary.com-metatrader-5-platform/
+sub: blog
 excerpt: "Want to protect yourself against uncertain market conditions? Now you can have open positions in opposite directions of the same symbol..."
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/mt5-binaryoptions.jpg)

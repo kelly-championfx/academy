@@ -3,6 +3,7 @@ layout: post
 title: "Binary.com heads to London for Master Investor Show 2017"
 language: en
 permalink: /en/london-investor-show-2017/
+sub: blog
 excerpt: "We’ll be at the UK’s leading show for private investors, happening at the Business Design Centre in London on 25 March..."
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/london-investor-show-2017.jpg)

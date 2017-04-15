@@ -3,6 +3,7 @@ layout: post
 title: "Season’s Greetings to All Our Traders for Trusting Us Since 2000"
 language: en
 permalink: /en/seasons-greetings/
+sub: blog
 excerpt: "We’re sending you our warmest wishes for the coming holidays to tell you how much we appreciate having you as a Binary.com client..."
 ---
 ![MT5 Binary options Trading!]({{site.baseurl }}/images/greetings-2016.jpg)

@@ -3,6 +3,7 @@ layout: post
 title: "Tick Trades Now Available for Volatility Higher/Lower Contracts"
 language: en
 permalink: /en/tick-trades-now-available-for-volatility-higher-lower-contracts/
+sub: blog
 excerpt: "Enjoy our fastest type of trading in a variety of new ways, with “Higher/Lower” tick trades now available for Volatility Indices..."
 ---
 

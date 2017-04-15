@@ -3,6 +3,7 @@ layout: post
 title: "Trade at Rapid-Fire Speed with High-Frequency Volatility Indices for MT5"
 language: en
 permalink: /en/trade-at-rapid-fire-speed-with-high-frequency-volatility-indices/
+sub: blog
 excerpt: "We’re excited to announce our new High-Frequency Volatility Indices (HF Volatility) that run on four times the frequency of current Volatility Indices..."
 ---
 We’re excited to announce our new High-Frequency Volatility Indices (HF Volatility) that run on four times the frequency of current Volatility Indices.
