@@ -1,6 +1,9 @@
 {% include lang.html %}
 <div class="LC-sidebar">
 {% assign current = page.url %}
+{% if page.image %}
+<img src="{{ page.image | relative_url }}">
+{% endif %}
     {% if siteLang == "en" %}
 	{% assign NavLang = site.pages | where: "language", "en" %}	
 			<ul>								
