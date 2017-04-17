@@ -7,7 +7,7 @@
 .Subheader-active a{color: #013365 !important; font-weight: bold !important;}
 @media (max-width: 768px) {
 .Subheader ul li {display:block; margin:0px 0px; padding:6px 0px; width:100%; }
-.Subheader ul li a{width:100%;margin-left:-15px;padding:7px 15px; display:block;}
+.Subheader ul li a{width:100%;margin-left:0px;padding:7px 15px; display:block;}
 }
 .fx-footer {margin-top: 20px;}
 
@@ -32,19 +32,13 @@
 @media only screen and (max-width : 580px) {
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
-/* home grid */
-.Home__grid-wrap {overflow: hidden; margin: -10px -10px;}
-.Home__grid-wrap__box {float: left;  position: relative; width: 25%; padding-bottom: 25%;}
-.Home__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; padding:20px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center; }
-.Home__grid-wrap__box__boxInner p {}
 .LC__grid-wrap__box {float: left;  position: relative; width: 33.3%; padding-bottom: 35%;}
 .LC-Grid__grid-wrap__box__boxInner__title {position:absolute; bottom:50px;left:20px;right:20px;padding:10px 10px;}
 @media only screen and (max-width : 980px) {
-.Home__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
 .LC__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
 }
+
 @media only screen and (max-width : 580px) {
-.Home__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 50%;}
 .LC__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
 
