@@ -79,7 +79,7 @@
 	.v-border {display: none;}
 }
 .v-space {margin-bottom: 30px;}
-.bm-10 {height: 10px;}
+.bm-10 {height: 10px; display: block;}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
