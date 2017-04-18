@@ -43,6 +43,7 @@
 .LC-active { border-bottom: 3px solid #013365!important; font-weight: bold;}
 .LC-content {padding-left: 20px;}
 /* Snippets */
+.sidebar-date {display: block; padding-left: 20px;}
 .report-list { width:100%;}
 .rte img{max-width:100%;}
 .list-group {padding-left: 0; margin-bottom: 20px;}

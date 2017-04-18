@@ -7,7 +7,7 @@
 				{% for post in engPosts limit:15 %} 
 				{% if post.tag == "daily-report" %}	
 					{% if post.title %}
-						<li{% if post.url == current %} class="LC-active"{% endif %}><a href="{{ post.url | relative_url }}">{{ post.date | date: "%d.%m.%Y" }}</a></li>
+						<li{% if post.url == current %} class="LC-active"{% endif %}><a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong><span class="sidebar-date">{{ post.date | date: "%d.%m.%Y" }}</span></a></li>
 					{% endif %}
 				{% endif %}	
 				{% endfor %}
