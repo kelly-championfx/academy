@@ -94,7 +94,6 @@ Our new pairs are:
 		</tr>				
 	</tbody>
 </table>
-
-Log in and take these new currency pairs for a spin:
-
+<div class="separator fill-bg-color"></div>
+<p class="cta">Log in and take these new currency pairs for a spin</p>
 <p class="cta"><a class="button" href="https://oauth.champion-fx.com/oauth2/authorize?app_id=2472&l=EN"><span>Yes, I want to trade now</span></a></p>
