@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+{% include lang.html %}
+<html lang="{{ siteLang }}">
+  {% include head.html %}
+    {% include header.html %}	
+		<main class="page-content" aria-label="Content" id="champion-container">
+			<div class="wrapper" id="champion-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-md">
+							{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+							<div class="bm-10"></div>
+							<p>Gain invaluable insights into the Forex markets through a combination of fundamental, political, and technical analysis – only in this daily market report by Dave Evans. He also comments on the occasional stock market news through a primarily quantitative approach.</p>
+						</div>
+					</div>
+					<div class="LC-main">
+					<div class="row">
+						
+							<div class="col-md-2">
+									{% include sidebar/daily-report-list.html %}
+							</div>
+							<div class="col-md-10">
+								<div class="LC-content">{{ content }}</div>
+					        </div>	
+						
+					</div>	
+					</div>
+				</div>
+			</div>
+		</main>	
+     {% include footer.html %}  
+    </body>
+</html>
