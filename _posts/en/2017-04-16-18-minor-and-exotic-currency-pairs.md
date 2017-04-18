@@ -19,12 +19,6 @@ Our new pairs are:
 			<th>Description</th>
 		</tr>
 	</thead>
-	<tfoot>
-		<tr>
-			<th></th>
-			<th></th>
-		</tr>
-	</tfoot>
 	<tbody>
 		<tr>
 			<td>CAD/CHF</td>
