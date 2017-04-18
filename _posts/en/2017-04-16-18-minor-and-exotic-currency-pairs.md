@@ -4,6 +4,7 @@ title: "New on ChampionFX: 18 minor and exotic currency pairs"
 language: en
 permalink: /en/18-minor-and-exotic-currency-pairs/
 sub: blog
+tag: cfx-post
 excerpt: "We’re excited to announce the launch of 18 new currency pairs – available for our MT5 Standard and STP accounts..."
 ---
 We’re excited to announce the launch of 18 new currency pairs –– available for our MT5 Standard and STP accounts.

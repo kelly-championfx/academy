@@ -4,6 +4,7 @@ title: "See position history with latest MT5 Android app"
 language: en
 permalink: /en/see-position-history/
 sub: blog
+tag: cfx-post
 excerpt: "The latest MetaTrader 5 Android app now features the position history feature, where you can view all data related to a position you’ve taken, including..."
 ---
 The latest MetaTrader 5 Android app now features the position history feature, where you can view all data related to a position you’ve taken, including:
