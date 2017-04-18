@@ -15,7 +15,7 @@ Our new pairs are:
 <table>
 	<thead>
 		<tr>
-			<thSymbol</th>
+			<th>Symbol</th>
 			<th>Description</th>
 		</tr>
 	</thead>
