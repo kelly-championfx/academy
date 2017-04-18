@@ -10,19 +10,13 @@
 .Subheader ul li a{width:100%;margin-left:0px;padding:7px 15px; display:block;}
 }
 .fx-footer {margin-top: 20px;}
-
 /* Pages */
-
-
-
 .Page-Grid__grid-wrap {overflow: hidden; margin: -10px -10px;}
 .Page-Grid__grid-wrap p{margin: 10px 10px;}
 .Page-Grid__grid-wrap__box {float: left;  position: relative; width: 25%; padding-bottom: 25%;}
 .Page-Grid__grid-wrap__box__boxInner {position: absolute; left: 10px; right: 10px; top: 10px; bottom: 10px; border:0px solid #dedede; padding:0px; text-align:center; background:#fff; background-repeat:no-repeat; background-size:cover; background-position:center;}
 .Page-Grid__grid-wrap__box__boxInner:hover {border:0px solid #ccc;}
-
 .Page-Grid__grid-wrap__box__boxInner__title {font-weight:400; font-size:16px; color: #fff; position:absolute; bottom:0px;left:20px;right:20px;padding:10px 20px; background-color: #004385}
-
 .Page-Grid__grid-wrap__box__boxInner__vendor {display:block; float:left;position:absolute;top:25px;left:5px; right:5px; padding:0px; background:transparent; color:#444; font-size:12px; text-align:center;}
 .Page-Grid__grid-wrap__box__boxInner__vendor img {max-width:60%; height:auto; margin:0 auto;}
 .grid--date {display:block; background:#fff; font-weight:400; font-size:14px; position:absolute; bottom:-14px;left:2px; right:2px; padding:5px; z-index:999;}
@@ -37,11 +31,9 @@
 @media only screen and (max-width : 980px) {
 .LC__grid-wrap__box {float: left;  position: relative; width: 50%; padding-bottom: 50%;}
 }
-
 @media only screen and (max-width : 580px) {
 .LC__grid-wrap__box {float: left;  position: relative; width: 100%; padding-bottom: 100%;}
 }
-
 .LC-main {margin-top: 30px;}
 .LC-sidebar {border-right: 1px solid #004385; padding-right: 40px;}
 .LC-sidebar img {max-width: 100%; margin-bottom: 40px;}
@@ -50,7 +42,6 @@
 .LC-sidebar ul li a{font-weight:400;}
 .LC-active { border-bottom: 3px solid #013365!important; font-weight: bold;}
 .LC-content {padding-left: 20px;}
-
 /* Snippets */
 .report-list { width:100%;}
 .rte img{max-width:100%;}
@@ -77,7 +68,7 @@
 .cta {padding:10px; text-align: center;}
 .cta p {display: block; color: #000000; text-align: center;}
 .academy-header-cta  {margin-top: 50px;}
-.academy-header-cta span {padding:15px 30px; font-size: 18px;}
+.academy-header-cta span {padding:10px 25px; font-size: 18px;}
 /* Video Embed */
 .video-container {position: relative;margin-top:20px;padding-bottom: 56.25%;padding-top: 30px; height: 0; overflow: hidden;}
 .video-container iframe,
