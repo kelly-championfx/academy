@@ -84,4 +84,4 @@
 @media (min-width:480px) {
     .binary-logo-text {display: inline-block!important}
 }
-.ui-state-disabled {opacity: .7;}
+.ui-state-disabled {}
