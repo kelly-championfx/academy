@@ -59,7 +59,7 @@
 .glossary-content {margin-top: 40px;}
 .glossary-tab-content {padding-left: 40px;}
 .glossary-tab-content h2 {display: inline-block; border-bottom: 1px solid #013365;}
-.glossary-tab-content h3 span{display: block; font-size: 14px; color: #000;}
+.glossary-tab-content h3 span{display: block; font-size: 14px; }
 .glossary-title {border-right: 1px solid #DEDEDE; font-weight: bold;}
 .glossary-title h1 {font-weight: bold !important; font-size: 46px;}
 .v-border {background:url('./images/v-border.jpg') center right no-repeat; min-height: 20px; width: 1px; display: inline-block; }
@@ -84,3 +84,4 @@
 @media (min-width:480px) {
     .binary-logo-text {display: inline-block!important}
 }
+.ui-state-disabled {opacity: .5;}
