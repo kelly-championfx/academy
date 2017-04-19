@@ -42,6 +42,7 @@
 .LC-sidebar ul li a{font-weight:400;}
 .LC-active { border-bottom: 3px solid #013365!important; font-weight: bold;}
 .LC-content {padding-left: 20px;}
+.LC-content h1{margin-top: 15px;}
 /* Snippets */
 .sidebar-date {display: block; padding-left: 20px;}
 .report-list { width:100%;}
