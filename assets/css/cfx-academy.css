@@ -44,7 +44,7 @@
 .LC-content {padding-left: 20px;}
 .LC-content h1{margin-top: 15px;}
 /* Snippets */
-.img-md {max-width: 50%;}
+.img-md {width: 60%; height: auto;}
 .sidebar-date {display: block; padding-left: 20px;}
 .report-list { width:100%;}
 .rte img{max-width:100%;}
