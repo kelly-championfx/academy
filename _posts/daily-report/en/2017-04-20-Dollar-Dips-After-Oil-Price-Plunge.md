@@ -27,5 +27,4 @@ UK BOE governor Carney speaks at 15.30 and 16.30. Followed by Treasury secretary
 
 Despite a slight up-tick this morning, the AUD/ JPY's trend remains firmly lower. 
 
-
-<p><img class="post-image" src="{{ site.url }}/images/daily-report/2017-04-20_07-48-12.jpg" alt="{{ page.title }}" title="{{ page.title }}"></p>
+<p><img src="{{ "/assets/images/daily-report/2017-04-20_07-48-12.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
