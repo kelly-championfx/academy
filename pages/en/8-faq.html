@@ -1,0 +1,14 @@
+---
+layout: page-faq
+title: F.A.Q.
+permalink: /en/faq/
+language: en
+tag: main
+sub: faq
+---
+{% assign engPages = site.pages | where: "language", "en" %}
+{% for page in engPages  %}  
+	{% if page.subtag == "home" %}				
+		{{ page.content }}
+	{% endif %}
+{% endfor %}
