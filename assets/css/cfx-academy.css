@@ -460,3 +460,6 @@
         display: inline-block!important
     }
 }
+.ui-accordion-header {
+	padding-right: 50px !important;
+}
