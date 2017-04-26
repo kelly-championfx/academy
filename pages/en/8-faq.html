@@ -6,9 +6,41 @@ language: en
 tag: main
 sub: faq
 ---
-{% assign engPages = site.pages | where: "language", "en" %}
-{% for page in engPages  %}  
-	{% if page.subtag == "home" %}				
-		{{ page.content }}
-	{% endif %}
-{% endfor %}
+<h2>Welcome to ChampionFX FAQ</h2>
+<p>This FAQ is a work in progress and we will be constantly updating it to make it as helpful as possible. If the question you have is not covered here yet, please contact us via email or phone. We hope you enjoy!</p>
+<div class="separator fill-bg-color"></div>
+<div class="row">
+	<div class="col-sm">
+		<a href="http://support.champion-fx.com">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-customer-service"></div>
+			<div>Post a Public Question</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-sm">
+		<a href="http://support.champion-fx.com/customer/portal/emails/new">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-customer-service"></div>
+			<div>Email Our Support Team</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-sm">
+		<a href="tel:888.555.1212">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-customer-service"></div>
+			<div>Call Us @ 888.555.1212</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-sm">
+		<a href="http://support.champion-fx.com/customer/portal/chats/new">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-customer-service"></div>
+			<div>Start Live Chat Support</div>
+		</div>
+		</a>
+	</div>
+</div>
+<div class="separator fill-bg-color"></div>
