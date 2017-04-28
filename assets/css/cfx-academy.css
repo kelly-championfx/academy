@@ -377,6 +377,9 @@
     .v-border {
         display: none
     }
+	.fx-faq-toolbox {
+		margin: 10px 0;
+	}
 }
 
 .bm-10,
@@ -414,6 +417,10 @@
     font-size: 18px
 }
 
+.separator-lg {
+	display: block;
+	height: 50px;
+}
 .video-container {
     position: relative;
     margin-top: 20px;

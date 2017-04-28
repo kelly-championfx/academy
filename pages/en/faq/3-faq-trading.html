@@ -8,13 +8,13 @@ sub: faq
 ---
 <div class="has-tabs">
     <ul>
-      <li><a href="#tab_1">General</a></li>
-      <li><a href="#tab_2">Trading conditions</a></li>
-	  <li><a href="#tab_3">Trading instruments</a></li>
+      <li><a href="#general">General</a></li>
+      <li><a href="#trading_conditions">Trading conditions</a></li>
+	  <li><a href="#trading_instruments">Trading instruments</a></li>
     </ul>
 	<div class="bm-20"></div>
-    <div id="tab_1">
-		<div id="accordion">
+    <div id="general">
+		<div id="general_accordion">
 			<h3>What types of order execution do you use?</h3>
 				<div>
 					<p>ChampionFX believes in giving its clients  power and versatility to trade according to their preferred strategy. This is why we offer both instant and market execution, depending on the account type.</p>
@@ -104,8 +104,8 @@ sub: faq
 				</div>	
 		</div>
     </div>
-    <div id="tab_2">
-        <div id="tab_2_accordion">
+    <div id="trading_conditions">
+        <div id="trading_conditions_accordion">
 			<h3>What are the differences between a fixed and variable spread?</h3>
 				<div>
 					<p>The spread is essentially the buy and sell prices of an asset. A broker may offer a fixed or variable spread, or both.</p>
@@ -160,8 +160,8 @@ sub: faq
 				</div>		
 		</div>
     </div>
-	<div id="tab_3">
-        <div id="tab_3_accordion">
+	<div id="trading_instruments">
+        <div id="trading_instruments_accordion">
 			<h3>Where can I find a list of all the MT5 financial instruments that you offer, plus their contract specifications?</h3>
 				<div>
 					<p>Please refer to the contract specifications for each market:</p>
@@ -217,7 +217,7 @@ sub: faq
     $('.has-tabs').tabs();
 </script>
 <script type="text/javascript">
-    $('#accordion, #tab_2_accordion, #tab_3_accordion').accordion({
+    $('#general_accordion, #trading_conditions_accordion, #trading_instruments_accordion').accordion({
       heightStyle : 'content',
       collapsible : true,
       active      : false

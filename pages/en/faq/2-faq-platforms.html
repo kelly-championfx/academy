@@ -8,13 +8,13 @@ sub: faq
 ---
 <div class="has-tabs">
     <ul>
-      <li><a href="#tab_1">General</a></li>
-      <li><a href="#tab_2">Champion Trader</a></li>
-	  <li><a href="#tab_3">MetaTrader 5</a></li>
+      <li><a href="#general">General</a></li>
+      <li><a href="#champion-trader">Champion Trader</a></li>
+	  <li><a href="#metatrader-5">MetaTrader 5</a></li>
     </ul>
 	<div class="bm-20"></div>
-    <div id="tab_1">
-		<div id="accordion">
+    <div id="general">
+		<div id="general_accordion">
 			<h3>What are the major differences between Champion Trader and MT5?</h3>
 				<div>
 					<p>Our MT5 platform is a multi-asset trading platform that allows you to trade Forex, metals, futures, CFDs, stocks, and other types of assets. MT5 also gives you superior tools for comprehensive price analysis, as well as trading robots and signals that execute your trades automatically.</p>
@@ -36,8 +36,8 @@ sub: faq
 				</div>		
 		</div>		
     </div>
-    <div id="tab_2">
-		<div id="tab_2_accordion">
+    <div id="champion-trader">
+		<div id="champion-trader_accordion">
 			<h3>What is Champion Trader?</h3>
 				<div>
 					<p>Champion Trader is our dedicated binary options trading platform. It is well-known for its versatility, thanks to a full-screen trading interface that you can heavily customise based on your own preferences.</p>
@@ -52,8 +52,8 @@ sub: faq
 				</div>		
 		</div>
     </div>
-	<div id="tab_3">
-		<div id="tab_3_accordion">
+	<div id="metatrader-5">
+		<div id="metatrader-5_accordion">
 			<h3>What is MetaTrader 5?</h3>
 				<div>
 					<p>MetaTrader 5 is the latest version of the world’s most popular multi-asset trading platform. It is offered by most leading brokers and used by both retail and institutional traders worldwide. It is the most advanced trading platform available today, giving you access to a wide range of markets, advanced analysis tools, automated trading applications, and a trading signal service.</p>
@@ -187,7 +187,7 @@ sub: faq
     $('.has-tabs').tabs();
 </script>
 <script type="text/javascript">
-    $('#accordion, #tab_2_accordion, #tab_3_accordion').accordion({
+    $('#general_accordion, #champion-trader_accordion, #metatrader-5_accordion').accordion({
       heightStyle : 'content',
       collapsible : true,
       active      : false

@@ -8,14 +8,14 @@ sub: faq
 ---
 <div class="has-tabs">
     <ul>
-      <li><a href="#tab_1">Opening an account</a></li>
-      <li><a href="#tab_2">Live accounts</a></li>
-	  <li><a href="#tab_3">Demo accounts</a></li>
-	  <li><a href="#tab_4">Deposits and withdrawals</a></li>
+      <li><a href="#openining-account">Opening an account</a></li>
+      <li><a href="#live-accounts">Live accounts</a></li>
+	  <li><a href="#demo-accounts">Demo accounts</a></li>
+	  <li><a href="#deposits-withdrawals">Deposits and withdrawals</a></li>
     </ul>
 	<div class="bm-20"></div>
-    <div id="tab_1">
-		<div id="accordion">
+    <div id="openining-account">
+		<div id="openining-account_accordion">
 			<h3>What is the difference between a ChampionFX real account and an MT5 account</h3>
 				<div>
 					<p>A ChampionFX real account lets you trade binary options on our Champion Trader platform using real money.</p>
@@ -55,8 +55,8 @@ sub: faq
 				</div>
 		</div>		
 	</div>	
-    <div id="tab_2">
-        <div id="tab_2_accordion">
+    <div id="live-accounts">
+        <div id="live-accounts_accordion">
 			<h3>How many types of live accounts do you offer?</h3>
 				<div>
 					<p>We currently offer four types of live/real/trading accounts:</p>
@@ -103,8 +103,8 @@ sub: faq
 				</div>		
 		</div>
     </div>
-	<div id="tab_3">
-		<div id="tab_3_accordion">
+	<div id="demo-accounts">
+		<div id="demo-accounts_accordion">
 			<h3>Do you offer demo accounts?</h3>
 				<div>
 					<p>Absolutely. We believe that virtual and demo accounts give you a fantastic, risk-free opportunity to test-drive our products and services before you open live accounts and deposit real funds with us.</p>
@@ -139,8 +139,8 @@ sub: faq
 				</div>		
 		</div>       
     </div>
-	<div id="tab_4">
-		<div id="tab_4_accordion">
+	<div id="deposits-withdrawals">
+		<div id="deposits-withdrawals_accordion">
 			<h3>How do I deposit funds into my ChampionFX account?</h3>
 				<div>
 					<p>You can deposit funds into your ChampionFX account through <a href="https://www.champion-fx.com/en/cashier.html">our Cashier service</a> by using credit/debit card or e-currency.</p>
@@ -197,7 +197,8 @@ sub: faq
 			<h3>How can I obtain your bank details?</h3>
 				<div>
 					<p></p>		
-				</div>		
+				</div>	
+		</div>		
     </div>	
 </div>
 <div class="bm-20"></div>
@@ -205,7 +206,7 @@ sub: faq
     $('.has-tabs').tabs();
 </script>
 <script type="text/javascript">
-    $('#accordion, #tab_2_accordion, #tab_3_accordion, #tab_4_accordion').accordion({
+    $('#openining-account_accordion, #live-accounts_accordion, #demo-accounts_accordion, #deposits-withdrawals_accordion').accordion({
       heightStyle : 'content',
       collapsible : true,
       active      : false
