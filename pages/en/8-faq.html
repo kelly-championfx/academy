@@ -6,9 +6,84 @@ language: en
 tag: main
 sub: faq
 ---
-{% assign engPages = site.pages | where: "language", "en" %}
-{% for page in engPages  %}  
-	{% if page.subtag == "home" %}				
-		{{ page.content }}
-	{% endif %}
-{% endfor %}
+<p>This FAQ is a work in progress and we will be constantly updating it to make it as helpful as possible. We hope you enjoy!</p>
+<div class="separator-lg"></div>
+<div class="row center-text">
+	<div class="col-sm">	
+		<h2>Browse by Topic</h2>
+	</div>	
+</div>
+<div class="separator-lg"></div>
+<div class="row center-text">
+	<div class="col-md">
+		<h3><a href="{{ "/en/faq-platforms/" | relative_url }}">Platforms</a></h3>
+		<div class="separator primary-color"></div>
+		<p><a href="{{ "/en/faq-platforms/#general" | relative_url }}">General</a></p>	
+		<p><a href="{{ "/en/faq-platforms/#champion-trader" | relative_url }}">Champion Trader</a></p>
+		<p><a href="{{ "/en/faq-platforms/#metatrader-5" | relative_url }}">MetaTrader 5</a></p>
+	</div>
+	<div class="col-md">
+		<h3><a href="{{ "/en/faq-trading/" | relative_url }}">Trading</a></h3>
+		<div class="separator primary-color"></div>
+		<p><a href="{{ "/en/faq-trading/#general" | relative_url }}">General</a></p>
+		<p><a href="{{ "/en/faq-trading/#trading_conditions" | relative_url }}">Trading Conditions</a></p>
+		<p><a href="{{ "/en/faq-trading/#trading_instruments" | relative_url }}">Trading Instruments</a></p>
+	</div>
+	<div class="col-md">
+		<h3><a href="{{ "/en/faq-accounts/" | relative_url }}">Accounts</a></h3>
+		<div class="separator primary-color"></div>
+		<p><a href="{{ "/en/faq-accounts/#openining-account" | relative_url }}">Opening an account</a></p>
+		<p><a href="{{ "/en/faq-accounts/#live-accounts" | relative_url }}">Live Accounts</a></p>
+		<p><a href="{{ "/en/faq-accounts/#demo-accounts" | relative_url }}">Demo Accounts</a></p>
+		<p><a href="{{ "/en/faq-accounts/#deposits-withdrawals" | relative_url }}">Deposits and withdrawals</a></p>
+	</div>
+	<div class="col-md">
+		<h3><a href="{{ "/en/faq-about/" | relative_url }}">ChampionFX</a></h3>
+		<div class="separator primary-color"></div>
+		<p><a href="{{ "/en/faq-about/" | relative_url }}">About ChampionFX</a></p>
+		<p><a href="{{ "/en/faq-partnerships/" | relative_url }}">Partnerships</a></p>
+	</div>	
+</div>
+<div class="separator fill-bg-color"></div>
+<div class="row center-text">
+	<div class="col-sm">	
+		<h2>Can’t find the answers you need in our FAQ?</h2>
+		<p>If the question you have is not covered here yet, please post a public question, contact us via email, Call us or Start Live Chat Support.</p>
+	</div>	
+</div>
+<div class="separator-lg"></div>
+<div class="row">
+	<div class="col-md-3 fx-faq-toolbox">
+		<a href="http://support.champion-fx.com">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-support-question"></div>
+			<div>Post a Public Question</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-md-3 fx-faq-toolbox">
+		<a href="http://support.champion-fx.com/customer/portal/emails/new">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-support-email"></div>
+			<div>Email Our Support Team</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-md-3 fx-faq-toolbox">
+		<a href="tel:888.555.1212">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-customer-service"></div>
+			<div>Call Us @ 888.555.1212</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-md-3 fx-faq-toolbox">
+		<a href="http://support.champion-fx.com/customer/portal/chats/new">
+		<div class="fx-panel-item fill-bg-color">
+			<div class="fx-sm fx-support-chat"></div>
+			<div>Start Live Chat Support</div>
+		</div>
+		</a>
+	</div>
+</div>
+<div class="separator-lg"></div>

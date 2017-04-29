@@ -373,6 +373,22 @@
     display: inline-block
 }
 
+.fx-faq-toolbox {
+	min-height: 100px;
+}
+
+.fx-support-chat {
+    background: url(../images/symbols/chat.svg)
+}
+
+.fx-support-question {
+    background: url(../images/symbols/question.svg)
+}
+
+.fx-support-email {
+    background: url(../images/symbols/email.svg)
+}
+
 @media only screen and (max-width:768px) {
     .v-border {
         display: none
