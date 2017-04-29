@@ -386,7 +386,8 @@
 }
 
 .fx-support-email {
-    background: url(../images/symbols/email.svg)
+    background: url(../images/symbols/email.svg);
+	background-repeat: no-repeat;
 }
 
 @media only screen and (max-width:768px) {
