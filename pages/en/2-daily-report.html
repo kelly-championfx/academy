@@ -6,8 +6,9 @@ language: en
 tag: main
 sub: report
 ---
+
 {% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts limit:1 %}  
+{% for post in engPosts limit:2 %}  
 	{% if post.tag == "daily-report" %}	
 		<div class="row">
 			<div class="col-sm">
@@ -18,3 +19,4 @@ sub: report
 		</div>
 	{% endif %}	
 {% endfor %}
+
