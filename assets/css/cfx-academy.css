@@ -374,11 +374,12 @@
 }
 
 .fx-faq-toolbox {
-	min-height: 100px;
+	min-height: 10px;
 }
 
 .fx-support-chat {
-    background: url(../images/symbols/chat.svg)
+    background: url(../images/symbols/chat.svg);
+	background-repeat: no-repeat;
 }
 
 .fx-support-question {
@@ -386,10 +387,17 @@
 }
 
 .fx-support-email {
-    background: url(../images/symbols/email.svg);
+    background: url(../images/symbols/emailus.svg);
 	background-repeat: no-repeat;
 }
 
+.fx-support-phone {
+    background: url(../images/symbols/callus.svg);
+	background-repeat: no-repeat;
+}
+.fx-panel-item {
+	padding-top: 30px;
+}
 @media only screen and (max-width:768px) {
     .v-border {
         display: none
