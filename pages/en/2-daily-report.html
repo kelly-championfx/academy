@@ -8,7 +8,7 @@ sub: report
 ---
 
 {% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts limit:2 %}  
+{% for post in engPosts limit:1 %}  
 	{% if post.tag == "daily-report" %}	
 		<div class="row">
 			<div class="col-sm">
