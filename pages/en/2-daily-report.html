@@ -6,7 +6,6 @@ language: en
 tag: main
 sub: report
 ---
-
 {% assign engPosts = site.posts | where: "language", "en" %}
 {% for post in engPosts limit:1 %}  
 	{% if post.tag == "daily-report" %}	
