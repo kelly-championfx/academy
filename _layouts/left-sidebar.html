@@ -1,0 +1,30 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+{% include lang.html %}
+<html lang="{{ siteLang }}">
+{% include head.html %}    
+    {% include header.html %}
+		<main class="page-content" aria-label="Content" id="champion-container">
+			<div class="wrapper" id="champion-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-md">
+							{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-3">
+							<div class="rte"><h2>Sidebar</h2></div>
+						</div>
+						<div class="col-md-9">
+							<div class="rte">{{ content }}</div>
+						</div>
+					</div>		
+				</div>
+			</div>
+		</main>	
+     {% include footer.html %}  
+    </body>
+</html>

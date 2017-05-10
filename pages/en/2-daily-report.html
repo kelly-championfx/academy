@@ -1,0 +1,21 @@
+---
+layout: page-daily-report
+title: Daily Report
+permalink: /en/daily-report/
+language: en
+tag: main
+sub: report
+---
+{% assign engPosts = site.posts | where: "language", "en" %}
+{% for post in engPosts limit:1 %}  
+	{% if post.tag == "daily-report" %}	
+		<div class="row">
+			<div class="col-sm">
+				<h1>{{ post.title }}</h1>
+				<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
+				<div class="rte">{{ post.content }}</div>	
+			</div>	
+		</div>
+	{% endif %}	
+{% endfor %}
+
