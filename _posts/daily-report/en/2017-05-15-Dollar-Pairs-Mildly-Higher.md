@@ -27,8 +27,8 @@ Theresa May speaks at 19.00.
 
 ### Trade Idea
 
-The USD/JPY is back on the rise this morning, with the previous two sessions hardly dentingn the uptrend since mid April.
+The USD/JPY is back on the rise this morning, with the previous two sessions hardly denting the uptrend since mid April.
 
-This may be cause for concern, but the real driver of all the GBP/JPY recently has been the general out performance of yen pairs. This trend appears largely intact, so betting on further GBP/JPY upside could pay off.
+Further upside is on the cards and a good way to play this, is a HIGHER trade predicting that the USD/JPY will close above 114.00 in 14 days, for a potential return of 133%
 
 <p><img src="{{ "/assets/images/daily-report/2017-05-15_07-50-44.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
