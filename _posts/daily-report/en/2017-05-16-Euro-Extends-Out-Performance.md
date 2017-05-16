@@ -35,7 +35,7 @@ US mortgage delinquencies follow at 14.00.
 
 The EUR/JPY is slipping back this morning, but the euro remains the currency in demand. 
 
-The Medium term recorvery remains in place, making the EUR/JPY attractive for upside bets.
+The Medium term recovery remains in place, making the EUR/JPY attractive for upside bets.
 
 A good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 125.00 in 14 days for a potential return of 101%
 
