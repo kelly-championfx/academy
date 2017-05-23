@@ -4,7 +4,7 @@ title: "Are you missing out? Four reasons why you should become a ChampionFX Par
 language: en
 permalink: /en/become-a-ChampionFX-Partner/
 sub: blog
-tag: cfx-post
+tag: cfxpost
 excerpt: "This is the perfect opportunity for you to earn while you trade. Simply promote our MT5 platform offerings to prospective clients and earn the rewards you richly deserve..."
 ---
 We have officially launched our Introducing Broker (IB) programme.
