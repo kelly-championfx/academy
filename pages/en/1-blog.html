@@ -1,15 +1,15 @@
 ---
 layout: full-width
 title: What's New?
-permalink: /en/
+permalink: /en/news/
 language: en
 tag: main
 sub: blog
 ---
 <p>Follow our official blog for the latest ChampionFX product and feature updates.</p>
 {% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts limit:15 %} 
-	{% if post.tag == "cfx-post" %}
+{% for post in engPosts %} 
+	{% if post.tag == "cfxpost" %}
 		<div class="row list--item">
 			<div class="col-sm-12">
 				<div class="Page-List__item__excerpt">	
@@ -22,4 +22,3 @@ sub: blog
 		</div>
 	{% endif %}
 {% endfor %}
-<p class="p--action"><a class="button" href="{{ "/en/blog/" | relative_url }}"><span>Read more in the archive</span></a></p>
