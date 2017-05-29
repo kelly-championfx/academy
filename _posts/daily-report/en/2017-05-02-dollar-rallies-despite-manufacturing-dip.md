@@ -20,11 +20,6 @@ The euro appears to have recovered its poise this morning, with the EUR/GBP back
 
 ### Coming up today
 
-Coming up today, we have UK manufacturing PMI at 09.30 preceded by Spanish manufacturing PMI at 08.15.
-
-
-### Trade Idea
-
-The USD/JPY appears to be picking up momentum and this could well continue. More than other pairs, the USD/JPY's trends can run and run. 
+Coming up today, we have UK manufacturing PMI at 09.30 preceded by Spanish manufacturing PMI at 08.15. 
 
 <p><img src="{{ "/assets/images/daily-report/02-05-2017 08-02-19.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

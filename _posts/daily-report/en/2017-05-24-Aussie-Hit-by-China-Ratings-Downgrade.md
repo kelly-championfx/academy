@@ -27,10 +27,4 @@ Crude oil inventories follow at 14.30.
 
 At 18.00, we have the FOMC meeting minutes. FOMC member Kaplan speaks at 22.00. 
 
-### Trade Idea
-
-The USD/CAD has rallied for the last two days, but if Trump's plans to sell off a portion of US oil could be scuppered by opposition as much of his budget may be. We could see further downside from here as the USD/CAD downside continues.
-
-A good way to play this is a LOWER trade predicting that the USD/CAD will close below 1.3500 in 14 days for a potential return of 110%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-24_06-56-42.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

@@ -24,9 +24,4 @@ This is followed by US import prices at 12.30 and crude oil inventories at 14.30
 
 We have the RBNZ cash rate at 21.00.
 
-
-### Trade Idea
-
-The GBP/JPY has continued its remarkable run, with minor gains again this morning.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-10_07-09-22.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

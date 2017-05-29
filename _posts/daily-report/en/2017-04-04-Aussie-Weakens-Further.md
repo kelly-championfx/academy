@@ -29,8 +29,4 @@ At 14.00, we get US factory orders.
 
 ECB President Draghi speaks at 14.30.
 
-### Trade Idea
-
-The Australian dollar is showing some inherent weakness and this is not helped by this morning’s dovish RBA statement.
-
 <p><img src="{{ "/assets/images/daily-report/04-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

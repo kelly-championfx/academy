@@ -21,8 +21,4 @@ Meanwhile, the Australian dollar is continuing its weak week, with follow on sel
 
 Coming up today, we have US crude oil inventories at 14.30.
 
-### Trade Idea
-
-The GBP USD shot higher yesterday, but yesterday's reaction could unwind somewhat despite a near certain result.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-19_07-17-11.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

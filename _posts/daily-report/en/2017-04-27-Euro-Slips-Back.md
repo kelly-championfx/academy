@@ -28,11 +28,4 @@ At 11.45, we get the ECB's minimum bid rate. The press conference follows at 12.
 
 Also at 12.30, we get US core durable goods and unemployment claims.
 
-
-### Trade Idea
-
-The EUR/GBP is turning back this morning as Monday's election rally turns back.
-
-There could be further downside from here before the final round of French elections.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-27_07-12-49.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

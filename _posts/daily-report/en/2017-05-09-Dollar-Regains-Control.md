@@ -26,9 +26,4 @@ At 14.00, we have US JOLTS job openings.
 
 FOMC member Kaplan speaks at 20.15.
 
-
-### Trade Idea
-
-The EUR/GBP has been trickling lower since Monday and this could well continue as the Macron trade undwinds.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-09_07-34-39.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

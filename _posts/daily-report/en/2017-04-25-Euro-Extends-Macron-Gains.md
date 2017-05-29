@@ -24,11 +24,4 @@ Coming up today, we have UK public sector net borrowing at 09.30
 
 This is followed by US CB consumer confidence at 15.00 and new home sales at the same time.
 
-
-### Trade Idea
-
-After leaping higher yesterday, the EUR/USD is once again on the rise this morning. 
-
-However, there is still an outside chance of a pullback before next weekend's final round of elections.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-25_07-55-10.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

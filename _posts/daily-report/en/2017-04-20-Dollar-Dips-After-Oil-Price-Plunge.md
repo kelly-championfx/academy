@@ -23,8 +23,4 @@ Coming up today, we have US Philly Fed manufacturing at 12.30, released alongsid
 
 UK BOE governor Carney speaks at 15.30 and 16.30. Followed by Treasury secretary Mnuchin at 17.15.
 
-### Trade Idea
-
-Despite a slight up-tick this morning, the AUD/ JPY's trend remains firmly lower. 
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-20_07-48-12.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

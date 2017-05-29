@@ -30,11 +30,4 @@ Canadian manufacturing sales follows at 12.30.
 
 At 14.30, we get crude oil inventories.
 
-
-### Trade Idea
-
-The euro has been flying high, but the pound has managed to hold on to ground made around the highs. While the dollar remains weak, there could be further upside from here for the GBP/USD.
-
-A good way to play this is a HIGHER trade predicting that the GBP/USD will close above 1.3000 in 14 days for a potential return of 138%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-17_07-08-43.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

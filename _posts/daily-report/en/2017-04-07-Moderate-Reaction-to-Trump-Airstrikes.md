@@ -29,10 +29,4 @@ At 12.30, we get the all important NFP jobs report from the US, released alongsi
 
 Canadian employment data is released at the same time.
 
-### Trade Idea
-
-US airstrikes have only strengthen the flow of money into the perceived safety of the yen.
-
-The euro continues to look wobbly and this could mean further downside from here.
-
 <p><img src="{{ "/assets/images/daily-report/07-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

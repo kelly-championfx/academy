@@ -27,10 +27,4 @@ At 14.00, we get US ISM non manufacturing PMI followed by crude oil inventories 
 
 Then at 18.00, we get the release of the FOMC meeting minutes.
 
-### Trade Idea
-
-The GBP/JPY is weaker this morning as markets digest the possibility of a Brexit without a deal.
-
-The pair is already the week’s worst performer and this could well continue.
-
 <p><img src="{{ "/assets/images/daily-report/05-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

@@ -25,12 +25,4 @@ At 13.30, we get US core durable goods orders, released alongside preliminary GD
 
 At 15.00, we get revised US UoM consumer sentiment. 
 
-## Trade Idea
-
-The EUR/GBP has been rallying since early May, with the 0.8800 levels now a realistic target. 
-
-The pound is likely to remain depressed until the General Election outcome, which could mean further upside for the EUR/GBP.
-
-A good way to play this is a ONE TOUCH trade predicting that the EUR/GBP will touch 0.8800 in the next 7 days for a potential return of 220%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-26_06-48-47.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

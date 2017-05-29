@@ -25,10 +25,4 @@ This is followed by unemployment claims at 12.30 and Philly Fed Manufacturing In
 
 ECB President Draghi speaks at 17.00. 
 
-### Trade Idea
-
-The USD/JPY has a good run from mid April, but the downtrend for 2017 remains largely intact. 
-
-There could be further downside from here and a good way to play this is a lOWER trade predicting that the USD/JPY will TOUCH 108.25 within the next 40 days for a potential return of 124%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-18_07-20-12.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

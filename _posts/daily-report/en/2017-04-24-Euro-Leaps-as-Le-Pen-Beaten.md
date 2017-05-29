@@ -24,9 +24,4 @@ This is followed by Canadian wholesale sales at 12.30.
 
 FOMC member Kashkari speaks at 15.30 and 19.15.
 
-
-### Trade Idea
-
-The EUR/USD has jumped higher, but there is plenty of time for 2nd round polls to twist and turn. There's a good chance that the EUR/USD could be lower on the even of the 2nd round of elections.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-24_05-57-44.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

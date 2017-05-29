@@ -27,10 +27,4 @@ At 13.30, we have US unemployment claims.
 
 FOMC member Brainard speaks at 15.00. 
 
-### Trade Idea
-
-The NZD/USD is performing well this week, but should the 0.7050 levels get broken, there is fresh air until higher levels.
-
-A good way to play this is a HIGHER trade predicting that the NZD/USD will close above 0.7085 in 14 days for a potential return of 136%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-25_07-27-11.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

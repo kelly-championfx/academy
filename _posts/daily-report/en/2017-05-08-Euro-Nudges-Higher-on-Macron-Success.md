@@ -22,9 +22,4 @@ Meanwhile, the USD/CAD is slipping lower again after the recovery in oil prices.
 
 It's a lighter day on the economic calendar today, with UK Halifax HPI the main item this morning at 07.30.
 
-
-### Trade Idea
-
-While the EUR/JPY might be grabbing the headlines this morning, the GBP/JPY's gains have been impressively consistent.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-08_07-42-42.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
