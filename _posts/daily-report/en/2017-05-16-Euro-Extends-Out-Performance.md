@@ -30,13 +30,4 @@ At 13.15, we get US capacity utilisation rate and industrial production.
 
 US mortgage delinquencies follow at 14.00.
 
-
-### Trade Idea
-
-The EUR/JPY is slipping back this morning, but the euro remains the currency in demand. 
-
-The Medium term recovery remains in place, making the EUR/JPY attractive for upside bets.
-
-A good way to play this is a HIGHER trade predicting that the EUR/JPY will close above 125.00 in 14 days for a potential return of 101%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-16_07-19-30.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

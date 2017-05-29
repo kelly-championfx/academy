@@ -32,9 +32,4 @@ At 13.45, we get Chicago PMI, with revised UoM consumer sentiment.
 
 FOMC member Brainard speaks at 17.15, while FOMC member Harker speaks at 18.30.
 
-
-### Trade Idea
-
-The pound has performed well this week and is well poised despite the looming election. 
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-28_06-55-20.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

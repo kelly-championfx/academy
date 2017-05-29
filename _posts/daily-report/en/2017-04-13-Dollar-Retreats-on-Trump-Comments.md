@@ -27,10 +27,4 @@ US preliminary UoM consumer sentiment follows at 14.00.
 
 BOC governor Poloz speaks at 14.30.
 
-### Trade Idea
-
-Gold is worth a look as President Trump gets involved a triangle if issues - Russia, Syria and North Korea.
-
-As the dollar weakens, there could be further upside from here.
-
 <p><img src="{{ "/assets/images/daily-report/13-apr-17.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

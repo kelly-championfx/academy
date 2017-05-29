@@ -25,8 +25,4 @@ German ZEW economic sentiment follows at 09.00.
 
 US JOLTS job openings are at 14.00.
 
-### Trade Idea
-
-The EUR/JPY consistent downtrend is hard to ignore and more downside could be on the cards.
-
 <p><img src="{{ "/assets/images/daily-report/11-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

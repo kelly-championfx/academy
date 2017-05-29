@@ -28,11 +28,4 @@ This is followed by ISM non manufacturing PMI at 14.00, followed by crude oil in
 
 At 18.00, we get the FOMC statement. 
 
-
-### Trade Idea
-
-The USD/CAD's rise has been remarkably consistent recently, helped by the renewed slump in oil prices. 
-
-This won't go on forever, but there could be some upside left in this trend. 
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-03_07-02-06.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

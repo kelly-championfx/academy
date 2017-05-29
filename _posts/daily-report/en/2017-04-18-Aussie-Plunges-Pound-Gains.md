@@ -23,8 +23,4 @@ Coming up today, we have US building permits at 12.30, released alongside US hou
 
 At 13.15, we have US capacity utilisation rates and industrial production.
 
-### Trade Idea
-
-The USD/JPY is unchanged this morning after yesterday’s strong rebound. This could be an opportunity to re-load on bearish bets though.
-
 <p><img src="{{ "/assets/images/daily-report/18-apr-17.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

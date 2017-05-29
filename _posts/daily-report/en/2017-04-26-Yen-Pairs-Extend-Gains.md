@@ -24,11 +24,4 @@ Coming up today, we have Canadian retail sales at 12.30.
 
 At 14.30, we have crude oil inventories.
 
-
-### Trade Idea
-
-The Australian dollar is struggling this morning, while the dollar pushes higher. 
-
-The AUD/USD has been testing the lows over the last month and if these break, we could see a sustained change lower.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-26_07-01-40.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

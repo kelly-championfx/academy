@@ -28,9 +28,4 @@ FOMC member Kashkari speaks at 13.30.
 
 US existing home sales follow at 14.00.
 
-
-### Trade Idea
-
-A positive result this weekend for pro-eu candidates in the French election could spark a relief rally in the euro. However, there still remains the outsize chance of an anti-establishment result and given everything we've seen in the last year, it could pay to bet on a shock.
-
 <p><img src="{{ "/assets/images/daily-report/2017-04-21_07-33-50.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

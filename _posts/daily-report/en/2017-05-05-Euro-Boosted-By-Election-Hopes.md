@@ -28,9 +28,4 @@ Canadian Ivey PMI follows at 14.00.
 
 At 15.30, FOMC member Fischer speaks at 15.30, with Fed Chair Yellen speaking at 17.30.
 
-
-### Trade Idea
-
-The Aussie dollar has hit fresh lows recently despite the US dollar pulling back. This hints at underlying weakness, with further downside on the cards.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-05_07-04-04.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

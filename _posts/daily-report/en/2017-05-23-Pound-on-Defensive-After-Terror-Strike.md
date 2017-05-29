@@ -31,10 +31,4 @@ US new home sales follow at 14.00.
 
 FOMC members Kashkari and Harker speaker at 19.00 and 21.00 respectively. 
 
-### Trade Idea
-
-The Australian dollar is putting a strong run together and with the US dollar continuing to struggle, there could be further upside from here.
-
-A good way to play this is a HIGHER trade predicting that the AUD/USD will close above 0.7525 for a potential return of 130%.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-23_07-46-46.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

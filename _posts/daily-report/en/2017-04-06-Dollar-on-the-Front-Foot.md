@@ -23,8 +23,4 @@ At 12.30, we have Canadian building permits, released alongside unemployment cla
 
 ECB president Draghi speaks at 20.00.
 
-### Trade Idea
-
-The AUD/JPY has been a consistent loser of late and it could well pay to ride this trend lower.
-
 <p><img src="{{ "/assets/images/daily-report/06-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

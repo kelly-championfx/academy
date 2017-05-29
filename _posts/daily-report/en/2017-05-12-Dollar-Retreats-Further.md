@@ -28,11 +28,4 @@ At 14.00, we have US UoM consumer sentiment.
 
 FOMC member Harker speaks at 16.30.
 
-
-### Trade Idea
-
-The GBP/JPY's reversal yesterday was driven by a softening in the Bank of England's economic projections. 
-
-This may be cause for concern, but the real driver of all the GBP/JPY recently has been the general out performance of yen pairs. This trend appears largely intact, so betting on further GBP/JPY upside could pay off.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-12_07-28-53.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

@@ -30,8 +30,4 @@ Then at 14.00, we have the Canadian BOC monetary policy report and overnight rat
 
 At 14.30, we get US crude oil inventories.
 
-### Trade Idea
-
-The yen pairs suffered significant losses yesterday, but with the dollar falling behind the pace, we could well see even further losses for the likes of the AUD/JPY in coming days.
-
 <p><img src="{{ "/assets/images/daily-report/12-apr-17.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

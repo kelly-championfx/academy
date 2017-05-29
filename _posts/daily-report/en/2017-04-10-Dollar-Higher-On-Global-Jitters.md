@@ -19,10 +19,4 @@ The yen pairs are generally higher, with the GBP/JPY leading the charge.
 
 Coming up today, we have US Fed Chair Yellen speaking at 20.10.
 
-### Trade Idea
-
-The EUR/USD has continued to struggle in the face of a strong US dollar.
-
-This could continue as French elections cause uncertainty across the region.
-
 <p><img src="{{ "/assets/images/daily-report/10-apr-17.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

@@ -23,12 +23,4 @@ Meanwhile gold his steady after a hefty reversal yesterday.
 
 Coming up today, we have Canadian CPI and core retail sales at 12.30, released alongside retail sales.
 
-### Trade Idea
-
-Despite Brexit and election uncertainty, the pound has performed relatively well in 2017. There is still a lot of catching up to do following a poor 2016, but the current trend is worth noting. 
-
-By contrast, the Australian dollar has under-performed as China's economy steps off the gas.
-
-A good way to play this is a HIGHER trade predicting that the GBP/AUD will close above 1.7500 in 14 days for a potential return of 123%
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-19_07-22-01.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

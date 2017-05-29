@@ -30,11 +30,4 @@ The big item is the MPC bank rate and monetary policy summary at 11.00. The BOE 
 
 At 12.30, we get US PPI and unemployment claims.
 
-
-### Trade Idea
-
-The NZD/USD's downtrend has mirrored the AUD/USD, though has gone somewhat under the radar. 
-
-There could be further downside from here, especially as the commodity retreat continues.
-
 <p><img src="{{ "/assets/images/daily-report/11-may-17.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

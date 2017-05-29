@@ -28,9 +28,4 @@ At 13.30, we get Canadian trade balance, released alongside US unemployment clai
 
 ECB President Draghi speaks at 17.30, with BOC governor Poloz speaking at 21.25.
 
-
-### Trade Idea
-
-Gold and other dollar pairs are set to struggle as the dollar ride gets back on track. If Friday's jobs numbers come in at least as expected, we could see further downside.
-
 <p><img src="{{ "/assets/images/daily-report/04-05-2017 07-12-57.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

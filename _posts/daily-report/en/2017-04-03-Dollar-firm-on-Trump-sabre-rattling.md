@@ -27,10 +27,4 @@ At 14.30, we get BOC business outlook survey data.
 
 FOMC member Dudley speaks at 14.30.
 
-### Trade Idea
-
-The euro is showing positive intent this morning, but the general downturn is hard to ignore.
-
-With most central bankers reportedly preferring the pound over the euro, we could well see further downside from here.
-
 <p><img src="{{ "/assets/images/daily-report/03-apr-17.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>

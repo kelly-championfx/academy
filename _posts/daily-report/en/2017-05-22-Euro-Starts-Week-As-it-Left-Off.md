@@ -27,10 +27,4 @@ UK Prime Minister May speaks at 18.00.
 
 FOMC member Brainard speaks at 23.00. 
 
-### Trade Idea
-
-The EUR/GBP has performed well recently and this could continue as the UK general election continues to act as a drag.
-
-This could well continue, with a good way to play this being a ONE TOUCH trade predicting that the EUR/GBP will touch 0.8750 withinin 14 days for a potential return of 118%.
-
 <p><img src="{{ "/assets/images/daily-report/2017-05-22_07-15-49.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
