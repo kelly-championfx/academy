@@ -2,7 +2,7 @@
 layout: post
 title: "Trade Ethereum and Litecoin on MT5"
 language: en
-permalink: /en/Bitcoin-trading-now-available-on-MT5/
+permalink: /en/Trade-Ethereum-and-Litecoin-on-MT5/
 sub: blog
 tag: cfxpost
 excerpt: "We’re extremely excited to announce two new additions to our cryptocurrency product range: Ethereum (ETH/USD) and Litecoin (LTC/USD)..."
