@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enter the world of high-yield returns: Bitcoin trading now available on MT5"
+title: "Trade Ethereum and Litecoin on MT5"
 language: en
 permalink: /en/Bitcoin-trading-now-available-on-MT5/
 sub: blog
