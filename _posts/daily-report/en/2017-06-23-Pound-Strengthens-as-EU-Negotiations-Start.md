@@ -9,11 +9,11 @@ excerpt: ""
 ---
 ### Morning Report: 07.00 London
 
-This morning, the pound is outperforming Brexit negotiations begin in earnest. The has apparently made concessions to support the rights of EU works who have been in the UK for five years. The EUR/ GBP has dipped this morning as the GBP/ USD rallies. 
+This morning, the pound is outperforming Brexit negotiations begin in earnest. The has apparently made concessions to support the rights of EU works who have been in the UK for five years. The EUR/GBP has dipped this morning as the GBP/ USD rallies. 
 
-The AUD/ USD is posting healthy gains after four days of losses, while the NZD/ USD heads for new highs after four day of gains. 
+The AUD/USD is posting healthy gains after four days of losses, while the NZD/USD heads for new highs after four day of gains. 
 
-The yen pairs are mixed, with the USD/ JPY unchanged this far.
+The yen pairs are mixed, with the USD/JPY unchanged this far.
 
 Gold is climbing and for the fourth day in a row, out performing silver this week by some margin. 
 
