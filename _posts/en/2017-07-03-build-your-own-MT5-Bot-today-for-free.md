@@ -17,7 +17,7 @@ You can also sell the EAs you’ve made in the MetaTrader Market, allowing you t
 
 To find out more about how it works, check out this video.
 
-<div class="video-container-md"><iframe src="https://www.youtube.com/embed/XVW_6X_uf8Q"></iframe></div>
+<div class="video-container-md"><iframe width="560" height="315" src="https://www.youtube.com/embed/XVW_6X_uf8Q"></iframe></div>
 
 
 It’s never too late to start work on your first EA. To start building it this instant, click the button below:
