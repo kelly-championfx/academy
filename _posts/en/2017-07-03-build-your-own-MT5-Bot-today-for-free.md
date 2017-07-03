@@ -20,10 +20,9 @@ To find out more about how it works, check out this video.
 <div class="video-container-md"><iframe width="560" height="315" src="https://www.youtube.com/embed/XVW_6X_uf8Q"></iframe></div>
 
 
-It’s never too late to start work on your first EA. To start building it this instant, click the button below:
-
 <div class="cta-lg">
-   <a class="button" href="https://www.champion-fx.com/en/trading-platform/metatrader-5.html"><span>Start building your MT5 Bot Today</span></a>
+	<p>It’s never too late to start work on your first EA. To start building it this instant, click the button below:</p>
+   <p><a class="button" href="https://www.champion-fx.com/en/trading-platform/metatrader-5.html"><span>Start building your MT5 Bot Today</span></a></p>
 </div>
 
 Got questions? Our Senior Financial Market Analyst, Sebastian is here to help. He can be reached at  <a href="mailto:sebastian@champion-fx.com">sebastian@champion-fx.com</a> or on Skype by searching for the same email.
