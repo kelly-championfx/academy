@@ -17,12 +17,10 @@ You can also sell the EAs you’ve made in the MetaTrader Market, allowing you t
 
 To find out more about how it works, check out this video.
 
-<div class="centered"><iframe width="560" height="100%" src="https://www.youtube.com/embed/XVW_6X_uf8Q" frameborder="0" allowfullscreen></iframe></div>
+<div class="centered"><iframe src="https://www.youtube.com/embed/XVW_6X_uf8Q" frameborder="0" allowfullscreen></iframe></div>
 
 
 It’s never too late to start work on your first EA. To start building it this instant, click the button below:
- 
-<p class="centered">><img src="{{ "/assets/images/mql5wizard.png" | relative_url }}" alt="MQL5 Wizard"></p>
 
 <div class="cta-lg">
    <a class="button" href="https://www.champion-fx.com/en/trading-platform/metatrader-5.html"><span>Start building your MT5 Bot Today</span></a>
