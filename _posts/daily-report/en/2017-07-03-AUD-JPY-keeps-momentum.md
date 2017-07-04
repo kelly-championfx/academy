@@ -1,8 +1,8 @@
 ---
 layout: daily-report-post
-title: "Rate Hold Sinks Aussie"
+title: "AUD/JPY keeps momentum"
 language: en
-permalink: /en/daily-report/Rate-Hold-Sinks-Aussie/
+permalink: /en/daily-report/AUD-JPY-keeps-momentum/
 sub: report
 tag: daily-report
 excerpt: ""
