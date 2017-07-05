@@ -17,7 +17,7 @@ The yen pairs are dancing to the same tune, with the USD/JPY slipping lower.
 
 Gold and silver continue to struggle in the face of the dollar's renewed strength. 
 
-## Coming up today
+### Coming up today
 
 Coming up today, we have UK Construction PMI at 09.30
 
