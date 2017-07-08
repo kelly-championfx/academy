@@ -19,7 +19,7 @@ The USD/CAD has risen as oil prices slump overnight.
 
 The yen pairs are mixed, with most on the slide, but the GBP/JPY rising. 
 
-## Coming up today
+### Coming up today
 
 Today, we have US ADP non-farm employment change at 13.15. 
 
