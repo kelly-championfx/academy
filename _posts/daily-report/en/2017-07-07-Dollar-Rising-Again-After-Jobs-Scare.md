@@ -26,4 +26,4 @@ Canadian jobs data is also released at 13.30.
 We get the Fed monetary policy report at 16.00. 
  
 
-<p><img src="{{ "/assets/images/daily-report/2017-07-07_05-38-08.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+<p><img src="{{ "/assets/images/daily-report/2017-07-07_05-38-08.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
