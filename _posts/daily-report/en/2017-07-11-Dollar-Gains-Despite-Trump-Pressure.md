@@ -17,7 +17,7 @@ The yen pairs are on the rise across the board, led by the AUD/JPY. The GBP/JPY 
 
 Gold continues to struggle, with the precious metal approaching the March lows. 
 
-## Coming up today
+### Coming up today
 
 This morning, we have MPC member Haldane speaking at 11.00.
 
