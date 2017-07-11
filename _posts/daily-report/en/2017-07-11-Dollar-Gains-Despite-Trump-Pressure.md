@@ -11,7 +11,7 @@ excerpt: ""
 
 This morning, the dollar index is on the rise again despite renewed pressure on Trump's Presidency. Revelations of links between Donald Trump Jr and Russia have failed to impact the US dollar. Dollar pairs are under pressure, with the EUR/USD down for the third day in a row.
 
-The shining light is the AUD/USD which is up by Th0.2%. The AUD/JPY is one of the top movers today, up 0.5%.
+The shining light is the AUD/USD which is up by 0.2%. The AUD/JPY is one of the top movers today, up 0.5%.
 
 The yen pairs are on the rise across the board, led by the AUD/JPY. The GBP/JPY is up 0.35%.
 
