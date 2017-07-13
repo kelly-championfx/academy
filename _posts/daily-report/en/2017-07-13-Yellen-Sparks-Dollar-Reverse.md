@@ -5,7 +5,7 @@ language: en
 permalink: /en/daily-report/Yellen-Sparks-Dollar-Reverse/
 sub: report
 tag: daily-report
-excerpt: ""
+excerpt: "The dollar is under pressure again this morning following Fed chair Janet Yellen's testimony which seemed to question inevitability of further steady rate hikes..."
 ---
 ### Morning Report: 07.00 London
 
