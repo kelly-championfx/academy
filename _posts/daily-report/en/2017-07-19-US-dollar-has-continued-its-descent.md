@@ -5,27 +5,25 @@ language: en
 permalink: /en/US-dollar-has-continued-its-descent/
 sub: report
 tag: daily-report
-excerpt: "This morning, the dollar index is slipping again, mainly as a counter-reaction to the surging Australian dollar ..."
+excerpt: "This morning, the US dollar has continued its descent, helping to keep a positive bias for most dollar pairs ..."
 ---
 ### Morning Report: 07.00 London
 
-This morning, the dollar index is slipping again, mainly as a counter-reaction to the surging Australian dollar. 
+This morning, the US dollar has continued its descent, helping to keep a positive bias for most dollar pairs. 
 
-The Australian dollar is soaring this morning, as the RBA took an optimistic view on the economy, pointing to the potential for rates to hit 3.5%. The AUD/USD is up 1.4%, with the AUD/JPY up nearly 1%. 
+The Australian dollar is continuing its fine run, with more gains made this morning. 
 
-The EUR/USD and GBP/USD are both on the rise, with the EUR/ GBP making further gains as the euro out performs. 
+The pound is performing better this morning after a poor performance yesterday on the back of lower than expected inflation numbers. 
 
-After a brief rally yesterday, the USD/CAD is back on the slide again this morning. 
+The euro is softer after out-performing yesterday. 
 
 ### Coming up today
 
-We start the day with UK CPI, PPI and PPI at 09.30. 
+Coming up today, we have Canadian Manufacturing Sales at 13.30. 
 
-At 10.00, we get German ZEW economic sentiment. 
+At the same time, we get US building permits and housing starts. 
 
-Import prices follow at 13.30. 
-
-BOE governor Carney speaks at 14.30. 
+US crude oil inventories follow at 15.30. 
 
 
-<p><img src="{{ "/assets/images/daily-report/2017-07-18_07-15-10.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+<p><img src="{{ "/assets/images/daily-report/2017-07-19_07-25-45.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
