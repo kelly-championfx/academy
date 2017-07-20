@@ -1,7 +1,7 @@
 title: Champion FX Academy
 email: support@champion-fx.com
 description: Access the world markets through one powerful all in one platform. The best choice for the modern trader where the client is king.
-baseurl: "/academy-1" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
