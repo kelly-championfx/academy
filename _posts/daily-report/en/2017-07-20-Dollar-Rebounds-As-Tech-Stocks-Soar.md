@@ -11,9 +11,9 @@ excerpt: "The USD/JPY is matching the US dollar index, making gains this morning
 
 Tech stocks hit record highs last night and the US dollar has halted its slump this morning. 
 
-The USD/JPY is matching the US dollar index, making gains this morning, reversing yesterday's gains. This despite in-line employment data. 
+The USD/JPY is matching the US dollar index, making gains this morning, reversing yesterday's losses. This despite in-line employment data. 
 
-Elsewhere, the Australian dollar is giving back some of its recent gains, with the AUD/ USD and AUD/JPY slipping. 
+Elsewhere, the Australian dollar is giving back some of its recent gains, with the AUD/USD and AUD/JPY slipping. 
 
 The euro and pound are trading lower, though the EUR/GBP is slipping as the euro lags. 
 
