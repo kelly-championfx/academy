@@ -1,6 +1,6 @@
 ---
 layout: daily-report-post
-title: "US dollar performing better"
+title: "US Dollar performing better"
 language: en
 permalink: /en/US-dollar-performing-better/
 sub: report
