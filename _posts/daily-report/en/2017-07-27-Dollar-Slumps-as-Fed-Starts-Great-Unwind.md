@@ -9,7 +9,7 @@ excerpt: "Last night, the Fed opted to keep rates on hold yesterday, but more si
 ---
 ### Morning Report: 07.00 London
 
-Last night, the Fed opted to keep rates on hold yesterday, but more significantly signalled that they would beginning to reduce it's crisis era balance sheet as soon as September. The dollar slumped as a result, with follow-on selling this morning. 
+Last night, the Fed opted to keep rates on hold, but more significantly signalled that they would beginning to reduce it's crisis era balance sheet as soon as September. The dollar slumped as a result, with follow-on selling this morning. 
 
 The dollar pairs have enjoyed gains since last night, with NZD/USD and AUD/USD leading the pack over the last 24 hours. 
 
