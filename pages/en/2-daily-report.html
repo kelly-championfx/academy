@@ -8,7 +8,7 @@ sub: report
 ---
 {% assign post = site.posts.first %}
 {% assign content = post.content %}
-{% {% if post.tag == "daily-report" %} %}
+{% if post.tag == "daily-report" %}
   <h1 class="entry-title">
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
