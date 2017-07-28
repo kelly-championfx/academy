@@ -6,16 +6,13 @@ language: en
 tag: main
 sub: report
 ---
-{% assign engPosts = site.posts | where: "language", "en" %}
-{% for post in engPosts limit:2 %}  
-	{% if post.tag == "daily-report" %}	
-		<div class="row">
-			<div class="col-sm">
-				<h1>{{ post.title }}</h1>
-				<p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
-				<div class="rte">{{ post.content }}</div>	
-			</div>	
-		</div>
-	{% endif %}	
-{% endfor %}
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+{% if post.tag == "daily-report" %}
+  <h1 class="entry-title">
+    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+  </h1>
+  <p class="post--date">{{ post.date | date: "%d.%m.%Y" }}</p>
+  <div class="rte">{{ content }}</div>
+{% endif %}
 <p class="font-xs"><i>Disclaimer: This financial market report is intended for educational and information purposes only. It should not be construed as investment or financial advice and you should not rely on any of its content to make or refrain from making any investment decisions. The views expressed in this report are those of the author and do not necessarily reflect the views or position of ChampionFX. ChampionFX accepts no liability whatsoever for any losses incurred by users in their trading. Binary options trading may incur losses as well as gains.</i></p>
