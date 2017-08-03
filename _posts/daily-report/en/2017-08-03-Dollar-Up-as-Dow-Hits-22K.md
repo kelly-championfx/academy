@@ -1,8 +1,8 @@
 ---
 layout: daily-report-post
-title: "Dollar Up as Down Hits 22K"
+title: "Dollar Up as Dow Hits 22K"
 language: en
-permalink: /en/Dollar-Up-as-Down-Hits-22K/
+permalink: /en/Dollar-Up-as-Dow-Hits-22K/
 sub: report
 tag: daily-report
 excerpt: "The dollar pairs are mixed this morning after solid gains yesterday which saw the EUR/USD extend its winning run. The EUR/USD is off slightly this morning though, while the GBP/USD and AUD/USD makes gains ..."
