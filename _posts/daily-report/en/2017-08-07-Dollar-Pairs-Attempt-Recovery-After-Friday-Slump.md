@@ -5,11 +5,11 @@ language: en
 permalink: /en/Dollar-Pairs-Attempt-Recovery-After-Friday-Slump/
 sub: report
 tag: daily-report
-excerpt: "This morning, the US dollar is slipping off the pace after a jumping higher on Friday's US jobs report. The likes of the the EUR/USD are on the up after suffering heavy losses Friday. The New Zealand is lagging however ..."
+excerpt: "This morning, the US dollar is slipping off the pace after a jumping higher on Friday's US jobs report. The likes of the EUR/USD are on the up after suffering heavy losses Friday. The New Zealand is lagging however ..."
 ---
 ### Morning Report: 07.00 London
 
-This morning, the US dollar is slipping off the pace after a jumping higher on Friday's US jobs report. The likes of the the EUR/USD are on the up after suffering heavy losses Friday. The New Zealand is lagging however. 
+This morning, the US dollar is slipping off the pace after a jumping higher on Friday's US jobs report. The likes of the EUR/USD are on the up after suffering heavy losses Friday. The New Zealand is lagging however. 
 
 The yen pairs are mirroring this trend, easing back after hefty gains on Friday fuelled by the strong yen. 
 
