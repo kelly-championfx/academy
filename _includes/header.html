@@ -36,44 +36,94 @@
 		</div>
 	</div>
 </div>
-<nav class="navbar">
-	<div class="container">
-		<span class="navbar__toggle" id="toggle-menu" href="button"></span>
-		<a class="navbar__brand fx-logo" href="https://champion-fx.com">
-			<span class="fx-logo__icon--light"></span>
-			<span class="fx-logo__wordmark--light"></span>
-		</a>
-		<div class="navbar__nav">
-			<ul class="navbar__nav__menu">
-				<li><a href="https://www.champion-fx.com/en/about-us.html"><span class="fx-about fx"></span>About</a></li>
-				<li>
-					<a class="navbar__nav__toggle" href="javascript:;">
-						<span class="fx-mt5-o fx"></span>
-						MetaTrader 5
+<div id="header" class="dark-blue header">
+	<div class="menu-container">
+		<div class="row">
+			<div class="col-md-3 col-sm-6 col-xs-6 vertical-center">
+				<div class="logo-wrapper">
+					<a href="https://www.champion-fx.com/en/home.html" class="logo-parent">
+						<div class="logo">
+							<div></div>
+						</div>
+						<div class="binary-logo-text">
+							<div></div>
+						</div>
 					</a>
-					<ul class="navbar__nav__menu">
-						<li><a href="https://www.champion-fx.com/en/forex.html">Forex</a></li>
-						<li><a href="https://www.champion-fx.com/en/cfd.html">CFDs</a></li>
-						<li><a href="https://www.champion-fx.com/en/metals.html">Metals</a></li>
-						<li><a href="https://www.champion-fx.com/en/economic-calendar.html">Economic calendar</a></li>
-					</ul>
-				</li>
-				<li>
-					<a class="navbar__nav__toggle" href="javascript:;">
-						<span class="fx-binary fx"></span>
-						Binary Options
-					</a>
-					<ul class="navbar__nav__menu">
-						<li><a href="https://www.champion-fx.com/en/binary-options.html">About binary options</a></li>
-						<li><a href="https://www.champion-fx.com/en/types-of-accounts.html">Types of accounts</a></li>
-					</ul>
-				</li>
-				<li><a href="https://www.champion-fx.com/en/trading-platform.html"><span class="fx-trading fx"></span>Trading Platforms</a></li>
-				<li><a href="https://www.champion-fx.com/en/partnerships.html"><span class="fx-partnership fx"></span>Partnerships</a></li>
-			</ul>
+				</div>
+			</div>
+		<div class="col-md-2 push-md-7 col-sm-6 col-xs-6 vertical-center">
+			<div id="main-logout" class="hidden-lg-up">
+				<ul id="main-account" class="nav-menu main-nav">
+					<li id="mobile_menu_icon" class="logged-out vertical-center hidden-lg-up "><span></span></li>
+					<li class="account logged-in invisible">
+						<a href="javascript:;">
+							<div class="main-account">
+								<div class="account-type"></div>
+								<div class="account-id"></div>
+								<div class="topMenuBalance"></div>
+							</div>
+							<div class="nav-caret"></div>
+						</a>
+					</li>
+				</ul>
+				<ul id="all-accounts" class="nav-menu main-nav">
+					<li class="account">
+						
+						<ul>
+							
+							
+							<div class="separator-line-thin-gray invisible logged-in"></div>
+							<a href="https://www.champion-fx.com/en/about-us.html" class="hidden-lg-up">
+								<li>About</li>
+							</a>
+							<li class="hidden-lg-up has-sub">
+								<a href="javascript:;">MT5</a>
+									<ul class="invisible">
+										<li><a href="https://www.champion-fx.com/en/forex.html">Forex</a></li>
+										<li><a href="https://www.champion-fx.com/en/cfd.html">CFDs</a></li>
+										<li><a href="https://www.champion-fx.com/en/metals.html">Metals</a></li>
+									</ul>
+							</li>
+							<a href="https://www.champion-fx.com/en/binary-options.html" class="hidden-lg-up">
+								<li>Binary Options</li>
+							</a>
+							<a href="https://www.champion-fx.com/en/trading-platform.html" class="hidden-lg-up">
+								<li>Trading Platforms</li>
+							</a>
+							<a href="https://www.champion-fx.com/en/partnerships.html" class="hidden-lg-up">
+								<li>Partnerships</li>
+							</a>
+							<div class="separator-line-thin-gray hidden-lg-up invisible logged-in"></div>
+							<div class="login-id-list"></div>
+							<a href="javascript:;" id="btn_logout" class="logout invisible logged-in">
+								<li>Sign out</li>
+							</a>
+						</ul>
+					</li>
+				</ul>
+			</div>
+				<div id="main-signup" class="logged-out hidden-lg-down">
+					
+				</div>
+		</div>
+			<div class="col-md-7 pull-md-2 hidden-lg-down vertical-center">
+				<ul class="top-nav-menu">
+					<li><a href="https://www.champion-fx.com/en/about-us.html" class="nav-dropdown-toggle">About</a></li>
+					<li><a href="javascript:;" class="nav-dropdown-toggle">MT5 <span class="nav-caret"></span></a>
+						<ul>
+							<li><a href="https://www.champion-fx.com/en/forex.html">Forex</a></li>
+							<li><a href="https://www.champion-fx.com/en/cfd.html">CFDs</a></li>
+							<li><a href="https://www.champion-fx.com/en/metals.html">Metals</a></li>
+						</ul>
+					</li>
+					<li><a href="https://www.champion-fx.com/en/binary-options.html" class="nav-dropdown-toggle">Binary Options</a></li>
+					<li><a href="https://www.champion-fx.com/en/trading-platform.html" class="nav-dropdown-toggle">Trading Platforms</a></li>
+					<li><a href="https://www.champion-fx.com/en/partnerships.html" class="nav-dropdown-toggle">Partnerships</a></li>
+				</ul>
+			</div>
 		</div>
 	</div>
-</nav>
+</div>
 <div class="primary-color-dark mt5-header ">
 	<div class="fx-panel center-text container fx-middle">
 		<div class="row">
