@@ -1,8 +1,8 @@
 ---
 layout: daily-report-post
-title: "Markets Ruffled on North Korea war of Words"
+title: "Markets Ruffled on North Korea war of words"
 language: en
-permalink: /en/Markets-Ruffled-on-North-Korea-war-of-Words/
+permalink: /en/Markets-Ruffled-on-North-Korea-war-of-words/
 sub: report
 tag: daily-report
 excerpt: "This morning, markets are jittery following the escalation of tensions between North Korea and the US ..."
