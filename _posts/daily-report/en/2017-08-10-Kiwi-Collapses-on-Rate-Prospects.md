@@ -25,6 +25,6 @@ This morning, we have UK manufacturing production at 09.30, released alongside g
 
 At 13.30, we have US PPI, unemployment claims and NHPI. 
 
-At 15.00, we get FOMC member Dudley speaking at 15.00.
+At 15.00, we get FOMC member Dudley speaking.
 
 <p><img src="{{ "/assets/images/daily-report/2017-08-10_07-10-37.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
