@@ -1,26 +1,28 @@
 ---
 layout: daily-report-post
-title: "Aussie Rallies Despite China Miss"
+title: "Yen Surges on Safe Haven Demand"
 language: en
-permalink: /en/Aussie-Rallies-Despite-China-Miss/
+permalink: /en/Yen-Surges-on-Safe-Haven-Demand/
 sub: report
 tag: daily-report
-excerpt: "This morning, the Australian dollar is building on Friday's gains and leading markets higher despite China disappointing in its industrial production data ..."
+excerpt: "The yen easing a little this morning after a surge in demand for traders looking for safe havens ..."
 ---
 ### Morning Report: 07.00 London
 
-This morning, the Australian dollar is building on Friday's gains and leading markets higher despite China disappointing in its industrial production data. 
+The yen easing a little this morning after a surge in demand for traders looking for safe havens. The USD/JPY saw some of the biggest declines yesterday, alongside the AUD/JPY which is feeling the regional pinch. 
 
-Yen pairs are generally on the rise as they rebound against the pressure of the last week, building on Friday's promise. 
+The dollar has been mixed as have the dollar pairs with no discernible trend over the last few days. Most dollar pairs are nudging higher after moderate losses yesterday. 
 
-The USD/CHF is rising, as a general sign of market ease over the North Korea situation. 
+The big exceptions are the AUD/USD, which is trading lower again this morning and the NZD/USD which suffered severe losses yesterday. 
 
-Gold is slipping lower on a similar trend.
-
-Dollar pairs are generally on the back foot however, with the likes of the EUR/USD and GBP/USD reversing Friday's gains. 
+Gold is also off the pace after three days of gains. 
 
 ### Coming up today
 
-Coming up today, we have European industrial production data at 10.00.
+Today we have minor European data in the morning. 
 
-<p><img src="{{ "/assets/images/daily-report/14-08-2017 06-19-52.png" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
+This is followed by US CPI at 13.30. 
+
+Following this, FOMC member Kaplan speaks at 14.40, with member Kashkari speaking at 16.30.
+
+<p><img src="{{ "/assets/images/daily-report/2017-08-11_07-16-15.jpg" | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}"></p>
