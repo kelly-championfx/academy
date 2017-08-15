@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Who likes to trade Litecoin?"
 language: en
 permalink: /en/Who-likes-to-trade-Litecoin/

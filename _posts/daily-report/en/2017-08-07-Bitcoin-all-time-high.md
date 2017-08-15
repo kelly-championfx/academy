@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Bitcoin above $3.300 - all time high"
 language: en
 permalink: /en/Bitcoin-all-time-high/

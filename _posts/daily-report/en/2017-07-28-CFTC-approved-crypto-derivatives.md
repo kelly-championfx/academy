@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Options on Bitcoin and Ethereum - CFTC approved crypto derivatives"
 language: en
 permalink: /en/CFTC-approved-crypto-derivatives/

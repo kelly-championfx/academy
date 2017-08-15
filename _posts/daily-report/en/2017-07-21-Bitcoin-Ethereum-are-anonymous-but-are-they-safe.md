@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Bitcoin & Ethereum - are anonymous, but are they safe?"
 language: en
 permalink: /en/Bitcoin-Ethereum-are-anonymous-but-are-they-safe/
