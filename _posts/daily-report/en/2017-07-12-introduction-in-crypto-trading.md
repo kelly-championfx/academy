@@ -3,8 +3,8 @@ layout: post
 title: "Introduction in crypto trading"
 language: en
 permalink: /en/introduction-in-crypto-trading/
-sub: blog
-tag: cfxpost
+sub: report
+tag: daily-report
 excerpt: "Crypto currencies, blockchain, digital currency, you're hearing this terms almost every day. Today we will talk about Ethereum..."
 ---
 Crypto currencies...blockchains...digital currency...you're hearing this terms almost every day. Today we will talk about Ethereum.
