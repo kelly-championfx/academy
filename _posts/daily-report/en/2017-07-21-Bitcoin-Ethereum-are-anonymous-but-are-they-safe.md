@@ -3,8 +3,8 @@ layout: post
 title: "Bitcoin & Ethereum - are anonymous, but are they safe?"
 language: en
 permalink: /en/Bitcoin-Ethereum-are-anonymous-but-are-they-safe/
-sub: blog
-tag: cfxpost
+sub: report
+tag: daily-report
 excerpt: "We talked about price movement, evolution, involution, issues like transaction processing delays, costs... but how about security ..."
 ---
 We talked about price movement, evolution, involution, issues like transaction processing delays, costs... but how about security? Is Bitcoin, Ethereum as safe as we think (or advertised)? Yes, we have a high degree of anonymity by owning these cryptocurrencies, but the real question is how safe is to keep our money in these digital currencies? Well, not as safe as we think, considering the latest hits on Ethereum in particular. Yes, one may argue that it's safer than credit cards or that these events are not so often, but they do and the amplitude is definitely much bigger.

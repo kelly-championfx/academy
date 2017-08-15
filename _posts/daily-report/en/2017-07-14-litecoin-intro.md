@@ -3,8 +3,8 @@ layout: post
 title: "Litecoin - Intro"
 language: en
 permalink: /en/litecoin-intro/
-sub: blog
-tag: cfxpost
+sub: report
+tag: daily-report
 excerpt: "In March this year, 1 Litecoin worth about $4. Four months later, in the beginning of July, the price of the currency reached a staggering $53.60 ..."
 ---
 Litecoin – despite the name "Lite", this digital currency is far from being "Lite", with more than $2B in market cap, rank fourth in Cryptocurrency chart by aforementioned criteria, after Bitcoin, Ethereum (being available for trading, along with Litecoin against USD and EUR) and Ripple.
