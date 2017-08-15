@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Litecoin at $50, Ethereum at $300, Botcoin at $3.500"
 language: en
 permalink: /en/litecoin-ethereum-bitcoin-no-sign-of-slowing-down/

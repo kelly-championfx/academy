@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Litecoin - could it become a viable alternative for Bitcoin?"
 language: en
 permalink: /en/Litecoin-could-it-become-a-viable-alternative-for-Bitcoin/

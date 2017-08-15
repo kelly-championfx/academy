@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Litecoin - Intro"
 language: en
 permalink: /en/litecoin-intro/

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Bitcoin finally split - now what?"
 language: en
 permalink: /en/Bitcoin-finally-split-now-what/

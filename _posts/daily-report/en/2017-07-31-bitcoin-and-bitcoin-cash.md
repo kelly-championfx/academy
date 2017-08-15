@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Bitcoin, Bitcoin cash and how will it influence the future prices"
 language: en
 permalink: /en/bitcoin-and-bitcoin-cash/

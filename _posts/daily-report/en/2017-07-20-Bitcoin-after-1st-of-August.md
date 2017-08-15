@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: daily-report-post
 title: "Bitcoin after 1st of August"
 language: en
 permalink: /en/Bitcoin-after-1st-of-August/
