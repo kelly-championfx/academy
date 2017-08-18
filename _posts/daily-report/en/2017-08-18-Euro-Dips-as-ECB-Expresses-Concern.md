@@ -2,7 +2,7 @@
 layout: daily-report-post
 title: "Euro Dips as ECB Expresses Concern"
 language: en
-permalink: /en/Euro-Dips-as-ECB-Expresses-Concern/
+permalink: /en/Euro-Dips-as-ECB-Expresses-Concern-aug/
 sub: report
 tag: daily-report
 excerpt: "Most yen pairs with the exception of the USD/JPY are staging a counter rally this morning after yesterday's slump ..."
