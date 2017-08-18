@@ -19,7 +19,7 @@ Dollar pairs are generally performing well, led by the GBP/ USD.
 
 Gold testing the August highs yesterday, but is slipping back slightly this morning. 
 
-## Coming up today
+### Coming up today
 
 Today, we have Canadian CPI at 13.30. 
 
