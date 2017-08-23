@@ -1,11 +1,11 @@
 ---
 layout: daily-report-post
-title: "Dollar Rallies as Trump Outlines Afgan Plan"
+title: "Dollar Rallies as Trump Outlines Afghan Plan"
 language: en
 permalink: /en/Dollar-Rallies-as-Trump-Outlines-Afgan-Plan-17/
 sub: report
 tag: daily-report
-excerpt: "Most yen pairs with the exception of the USD/JPY are staging a counter rally this morning after yesterday's slump ..."
+excerpt: "This morning, the US dollar is slightly stronger, pushing dollar pairs lower after Donald Trump outlined plans for Afghanistan ..."
 ---
 ### Morning Report: 07.00 London
 
