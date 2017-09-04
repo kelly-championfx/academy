@@ -17,7 +17,7 @@ The dollar pairs are on the back foot after gains yesterday. The AUD/USD is hold
 
 The biggest move yesterday was on the USD/CAD as the Canadian dollar launched higher yesterday on the back of higher than expected GDP and oil prices. 
 
-## Coming up today
+### Coming up today
 
 Coming up today, we have manufacturing PMI at 09.30. 
 

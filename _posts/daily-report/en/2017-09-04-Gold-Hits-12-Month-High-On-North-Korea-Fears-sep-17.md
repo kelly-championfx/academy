@@ -5,7 +5,7 @@ language: en
 permalink: /en/Gold-Hits-12-Month-High-On-North-Korea-Fears-sep-17/
 sub: report
 tag: daily-report
-excerpt: "This morning, risk-haven assets are in demand after North Korea's apparent nuclear bomb tests. Gold has reached its highest levels since September 2016, with Silver hitting the highs as well ..."
+excerpt: "This morning, risk-haven assets are in demand after North Koreas apparent nuclear bomb tests. Gold has reached its highest levels since September 2016, with Silver hitting the highs as well ..."
 ---
 ### Morning Report: 07.00 London
 
