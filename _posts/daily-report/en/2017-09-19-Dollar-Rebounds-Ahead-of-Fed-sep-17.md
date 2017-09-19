@@ -5,7 +5,6 @@ language: en
 permalink: /en/Dollar-Rebounds-Ahead-of-Fed-sep-17/
 sub: report
 tag: daily-report
-excerpt: "This morning, the US dollar is unchanged ahead of tomorrow’s Fed as investors take in yesterday’s recovery rally ..."
 ---
 ### Morning Report: 07.00 London
 
