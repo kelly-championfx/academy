@@ -16,7 +16,7 @@ The Australian dollar was mixed yesterday following the latest RBA meeting, with
 
 The GBP/USD also reversed yesterday, with the EUR/GBP rallying for the first time in six sessions. 
 
-## Coming up today 
+### Coming up today 
 
 Coming up today, we have UK retail sales at 09.30. 
 
