@@ -19,7 +19,7 @@ The yen pairs showed a positive bias, led by the AUD/JPY and the USD/JPY. Activi
 
 The EUR/GBP is higher this morning but rallied hard yesterday on the release of better than expected UK retail sales. 
 
-## Coming up today 
+### Coming up today 
 
 Coming up today, we have the BOJ press conference at 07.30. 
 
